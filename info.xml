@@ -14,13 +14,13 @@
     <url desc="Support">http://civicrm.stackexchange.com/</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
-  <releaseDate>2019-11-26</releaseDate>
-  <version>1.1.1</version>
+  <releaseDate>2022-03-07</releaseDate>
+  <version>1.1.2</version>
   <develStage>alpha</develStage>
   <comments>
     FlexMailer is an email delivery engine which replaces the internal guts
     of CiviMail.  It is a drop-in replacement which enables *other* extensions
-    to provide richer email features.
+    to provide richer email features. (Special version for PHP 7.4)
   </comments>
   <compatibility>
     <ver>5.13</ver>
